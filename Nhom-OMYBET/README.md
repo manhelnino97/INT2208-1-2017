@@ -1,9 +1,16 @@
-# Danh sách nhóm:
-	-Bùi Bá Thành
-	-Nguyễn Minh Thắng
-	-Hoàng Hồng Minh
-	-Hoàng Tiến Mạnh
+# Dự án Luyện thi lái xe online
 
+## Danh sách nhóm:
+	+Bùi Bá Thành
+	+Nguyễn Minh Thắng
+	+Hoàng Hồng Minh
+	+Hoàng Tiến Mạnh
+
+## Ứng dụng tham khảo : thilaixe.info
+## Sơ đồ ca sử dụng:
+	+Trang chủ
+	+Luyện thi
+	+Tìm hiểu luật giao thông
 ## Mô tả phần mềm:
 	1.Trang web học luyện thi lái xe giúp các bạn đang chuẩn bị thi bằng lái xe có thêm kinh nghiệm thi.
 	2.Trang web có các chức năng chính:
@@ -13,4 +20,4 @@
 	3.Ngôn ngữ và công nghệ sử dụng:
 		-HTML, CSS, Javascrip, PHP và hệ quản trị cơ sở dữ liệu MySQL,...
 		-Framework: Bootstrap, Laravel, ...
-	4.Trang web tham khảo: thilaixe.info
+
